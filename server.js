@@ -11,4 +11,4 @@ let chalk = require('chalk');
 var text = require('./Data');
 console.log(chalk.blue('hello nodeJS ' + text))
 //console.log(__dirname)
-//console.log(__filename)
+console.log(__filename)
