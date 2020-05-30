@@ -1,0 +1,17 @@
+{
+  "name": "node_first",
+  "version": "1.0.0",
+  "description": "NodejsFirst",
+  "main": "server.js",
+  "author": "andrski",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "node"
+  ],
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.0.0"
+  }
+}
